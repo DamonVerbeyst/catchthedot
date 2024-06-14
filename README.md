@@ -9,7 +9,7 @@ In order to prepare for your first execution of the script, execute the steps be
 1. Open your terminal
 2. Navigate to the directory where you want to download the codebase
 3. Run the following commands in order:
-4. ```git clone ..```
+4. ```git clone https://github.com/DamonVerbeyst/catchthedot.git```
 5. ```cd catchthedot```
 6. ```conda env create -f environment.yml```
 7. ```conda activate catch_the_dot_game```
