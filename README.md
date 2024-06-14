@@ -27,8 +27,8 @@ In order to actually play the game, execute the steps below:
 3. ```conda activate catch_the_dot_game```
 4. ```python Game.py --n_players <x>```
 
-When executing the Python script Game.py, you can choose to play in single-player mode or multi-player mode by providing the 'n_players' parameter accordingly.\\
-To start a single-player game: ```python Game.py --n_players 1```\\
-To start a multi-player game: ```python Game.py --n_players 2```
+When executing the Python script Game.py, you can choose to play in single-player mode or multi-player mode by providing the 'n_players' parameter accordingly.<br/>
+To start a single-player game: ```python Game.py --n_players 1```<br/>
+To start a multi-player game: ```python Game.py --n_players 2```<br/>
 
 
