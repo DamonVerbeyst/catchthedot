@@ -1,1 +1,1 @@
-name: catch_the_dot_gamechannels:  - defaults  - conda-forgedependencies:  - python=3.8  - opencv
+name: catch_the_dot_gamechannels:  - defaults  - conda-forgedependencies:  - python=3.12.3  - opencv=4.10.0
